@@ -1,0 +1,13 @@
+Throwing OutOfMemoryError "Failed to allocate a 438065248 byte allocation with 3677967 free bytes and 188MB until OOM, target footprint 7355935, growth limit 201326592" (VmSize 16468064 kB)
+
+
+
+load: 182 ms
+
+pred: 3 ms
+
+
+
+Bert: Computation time: 0.091151 seconds
+
+Tinybert: Computation time: 0.019879 seconds
