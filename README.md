@@ -19,3 +19,4 @@ In recent years, Natural Language Processing (NLP) has become essential for vari
 
 - [TinyBERT GitHub Repository](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)
 - [Using scikit-learn Models in Android Applications](https://github.com/shubham0204/Scikit_Learn_Android_Demo/tree/main)
+- [Huggingface Transformer](https://github.com/huggingface/transformers/tree/main)
